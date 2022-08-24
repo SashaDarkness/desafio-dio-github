@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class UncheckedExceptions {
-    public static void Unchecked_Exception(){
+    private static void Unchecked_Exception(){
         JOptionPane.showMessageDialog(null, "EXEMPLO DE UNCHECKED EXCEPTION");
 
         Boolean ContinueLooping = true;
